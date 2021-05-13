@@ -13,10 +13,17 @@ including content-based and collaborative flitering(model based) to build movie 
 movies based on what the users type, and in the second method, the recommendation could based on the movies that the users have rated predict the ratings and recomendhigher ratings movies to users.
 
 Dataset:
+
 url: https://www.kaggle.com/shivamb/netflix-shows
+
 url: https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
+
 url: https://www.kaggle.com/netflix-inc/netflix-prize-data
+
 Reference:
+
 url: https://www.kaggle.com/laowingkin/netflix-movie-recommendation
+
 url: https://www.kaggle.com/niharika41298/netflix-visualizations-recommendation-eda
+
 url: https://towardsdatascience.com/various-implementations-of-collaborative-filtering-100385c6dfe0
