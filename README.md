@@ -1,9 +1,7 @@
 # Movies-Recommendation-System
-EDA on Netflix datasets and based on content and collocating flittering  
+EDA on Netflix datasets and based on content and collocating flittering to build recommendation system.
 
 Name: Yan Chai
-
-Student ID:485509
 
 Describtion:
 In this final project, I my job could split two parts. In the first notebook(netflix.ipynb), I merged Netflix and IMDB datasets got from Kaggle and tried to
